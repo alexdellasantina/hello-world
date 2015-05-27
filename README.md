@@ -1,2 +1,4 @@
-# hello-world
-First repository.
+hello-world
+================
+
+Interning at Cartesian Co.
